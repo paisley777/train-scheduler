@@ -1,12 +1,7 @@
 
-/****Use the git ignore to upload
-header parameters different from query parameters***/
-
-/**var empStartPretty = moment.unix.(empStart).format("mm/DD/YY")**/
-
-/****VARIABLES****/
-
 $(document).ready(function() {
+
+	/****VARIABLES****/
 
   	/*Initialize Firebase*/
  	var config = {
